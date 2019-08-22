@@ -225,16 +225,16 @@ A-hello-cmake$ tree
 
 ```bash
 
-$ cd build
+A-hello-cmake$ cd build
 
-$ make
+build$ make
 Scanning dependencies of target hello_cmake
 [ 50%] Building CXX object CMakeFiles/hello_cmake.dir/main.cpp.o
 [100%] Linking CXX executable hello_cmake
 [100%] Built target hello_cmake
 
 
-$ ./hello_cmake
+build$$ ./hello_cmake
 Hello CMake!
 ----
 
